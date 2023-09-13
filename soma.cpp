@@ -1,3 +1,6 @@
+/*Problema "soma" 
+Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes 
+números. */
 #include <stdio.h>
 int main(){
 	float nota, nota2, soma;
